@@ -1,0 +1,15 @@
+.card-top {
+  background-color: var(--color-bg-tertiary);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
+
+.text-card {
+  margin-left: 20px;
+}
+
+.menu-active {
+  font-weight: 700;
+}

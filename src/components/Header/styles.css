@@ -1,0 +1,23 @@
+
+header {
+    background-color: var(--color-bg-secondary);
+    color: var(--color-font-secondary);
+    height: 70px;
+    display: flex;
+    
+}
+
+.nav-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+}
+
+.menu-item {
+    margin-left: 20px;
+}
+
+.menu-active {
+    font-weight: 700;
+}
